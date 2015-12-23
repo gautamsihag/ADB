@@ -1,0 +1,462 @@
+-----------------------------------------------------------------------------------------------------
+Run:
+>python proj1.py Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw 0.9 "gates"
+-----------------------------------------------------------------------------------------------------
+Parameters
+Client key          = Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw
+Query               = musk
+Target Precision    = 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?Query=%27musk%27&$top=10&$format=Atom
+Total number of results = 10
+======================
+Iteration: 0
+Bing Search Results:
+Y/y = relevant, N/n = not relevant, <any other> = quit
+======================
+Result 1
+[ URL: http://gizmodo.com/elon-musk-dieselgate-proves-its-time-to-go-electric-1733163688
+ Title: Elon Musk: Dieselgate Proves It's Time to Go Electric
+ Summary: Of course, that new technology Musk is referring to here is electric cars. But despite his obvious bias on the matter, the man may be onto something.
+ ]
+Relevant (Y/N)?Y
+Result 2
+[ URL: http://en.wikipedia.org/wiki/Elon_Musk
+ Title: Elon Musk - Wikipedia, the free encyclopedia
+ Summary: Elon Reeve Musk (born June 28, 1971) is a South African-born Canadian-American business magnate, engineer, inventor and investor. [14] He is the CEO and CTO of SpaceX ...
+ ]
+Relevant (Y/N)?Y
+Result 3
+[ URL: http://time.com/4050048/elon-musk-climate-change/
+ Title: Elon Musk: Climate Change Will Bring Worse Refugee Crisis
+ Summary: Climate change could create a refugee crisis far worse than the one currently unfolding in Europe, Elon Musk warned Thursday. The Tesla CEO gave a speech in Berlin in ...
+ ]
+Relevant (Y/N)?Y
+Result 4
+[ URL: http://en.wikipedia.org/wiki/Musk
+ Title: Musk - Wikipedia, the free encyclopedia
+ Summary: Musk is a class of aromatic substances commonly used as base notes in perfumery. They include glandular secretions from animals such as the musk deer, numerous plants ...
+ ]
+Relevant (Y/N)?N
+Result 5
+[ URL: https://twitter.com/ElonMusk
+ Title: Elon Musk (@elonmusk) | Twitter
+ Summary: Elon Musk-backed SolarCity claims to have built industry's most efficient solar panel http://www. theverge.com/2015/10/2/9439 173/elon-musk-backed-solarcity-claims-to ...
+ ]
+Relevant (Y/N)?Y
+Result 6
+[ URL: https://www.facebook.com/MUSK.DISCO
+ Title: MUSK
+ Summary: MUSK are Lennart D?ring and Gerald Zollner, who met in Berlin's nightlife back in 2009. Soon after they went through the history of dancemusic, ...
+ ]
+Relevant (Y/N)?N
+Result 7
+[ URL: http://www.forbes.com/profile/elon-musk/
+ Title: Elon Musk - Forbes
+ Summary: Elon Musk's meteoric ride hit a speed bump in June when one of his SpaceX rockets, on its way to resupply the International Space Station, exploded two minutes into ...
+ ]
+Relevant (Y/N)?Y
+Result 8
+[ URL: http://dictionary.reference.com/browse/musk
+ Title: Musk | Define Musk at Dictionary.com
+ Summary: noun 1. a substance secreted in a glandular sac under the skin of the abdomen of the male musk deer, having a strong odor, and used in perfumery. 2. an artificial ...
+ ]
+Relevant (Y/N)?N
+Result 9
+[ URL: http://www.fragrantica.com/notes/Musk-4.html
+ Title: Musk perfume ingredient, Musk fragrance and essential oils ...
+ Summary: Musk is a whole class of fragrant substances used as base notes in perfumery. This wonderful animalistic note creates a groundwork on which the rest of the aromatic ...
+ ]
+Relevant (Y/N)?N
+Result 10
+[ URL: http://www.merriam-webster.com/dictionary/musk
+ Title: Musk | Definition of musk by Merriam-Webster
+ Summary: Definition of MUSK for Kids: a strong-smelling material that is used in perfumes and is obtained from a gland of an Asian deer (musk deer) or is prepared artificially
+ ]
+Relevant (Y/N)?N
+FEEDBACK SUMMARY
+Precision 0.5
+Still below the desired precision of  0.9
+Augmenting by: ['elon', 'spacex']
+Parameters
+Client key          = Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw
+Query               = elon musk spacex
+Target Precision    = 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?Query=%27elon+musk+spacex%27&$top=10&$format=Atom
+Total number of results = 10
+======================
+Iteration: 1
+Bing Search Results:
+Y/y = relevant, N/n = not relevant, <any other> = quit
+======================
+Result 1
+[ URL: http://www.spacex.com/
+ Title: SpaceX
+ Summary: SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, with the ultimate goal ...
+ ]
+Relevant (Y/N)?Y
+Result 2
+[ URL: http://en.wikipedia.org/wiki/Elon_Musk
+ Title: Elon Musk - Wikipedia, the free encyclopedia
+ Summary: Elon Reeve Musk (born June 28, 1971) is a South African-born Canadian-American business magnate, engineer, inventor and investor. [14] He is the CEO and CTO of SpaceX ...
+ ]
+Relevant (Y/N)?Y
+Result 3
+[ URL: http://www.spacex.com/about
+ Title: Company | SpaceX
+ Summary: Company SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, with the ...
+ ]
+Relevant (Y/N)?Y
+Result 4
+[ URL: http://en.wikipedia.org/wiki/SpaceX
+ Title: SpaceX - Wikipedia, the free encyclopedia
+ Summary: Space Exploration Technologies Corporation (SpaceX) is an American aerospace manufacturer and space transport services company with its headquarters in Hawthorne ...
+ ]
+Relevant (Y/N)?Y
+Result 5
+[ URL: http://www.forbes.com/profile/elon-musk/
+ Title: Elon Musk - Forbes
+ Summary: Elon Musk's meteoric ride hit a speed bump in June when one of his SpaceX rockets, on its way to resupply the International Space Station, exploded two minutes into ...
+ ]
+Relevant (Y/N)?Y
+Result 6
+[ URL: http://www.examiner.com/article/spacex-s-elon-musk-proposes-more-than-doubling-nasa-s-budget
+ Title: SpaceX's Elon Musk proposes more than doubling NASA's ...
+ Summary: SpaceX's Elon Musk proposes more than doubling NASA's budget; New study documents abundance of animals at Chernobyl; Rush Limbaugh says the left was ...
+ ]
+Relevant (Y/N)?Y
+Result 7
+[ URL: http://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity
+ Title: Elon Musk: The mind behind Tesla, SpaceX, SolarCity ...
+ Summary: Entrepreneur Elon Musk is a man with many plans. The founder of PayPal, Tesla Motors and SpaceX sits down with TED curator Chris Anderson to share details about his ...
+ ]
+Relevant (Y/N)?Y
+Result 8
+[ URL: http://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS
+ Title: Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic ...
+ Summary: Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Kindle edition by Ashlee Vance. Download it once and read it on your Kindle device, PC, phones or ...
+ ]
+Relevant (Y/N)?Y
+Result 9
+[ URL: https://twitter.com/ElonMusk
+ Title: Elon Musk (@elonmusk) | Twitter
+ Summary: Elon Musk-backed SolarCity claims to have built industry's most efficient solar panel http://www. theverge.com/2015/10/2/9439 173/elon-musk ... SpaceX ? @SpaceX Sep 24.
+ ]
+Relevant (Y/N)?Y
+Result 10
+[ URL: http://www.ibtimes.com/elon-musks-spacex-joins-israeli-spaceil-googles-30-million-race-moon-contest-2130628
+ Title: Elon Musk's SpaceX Joins Israeli SpaceIL In Google's $30 ...
+ Summary: An Israeli lunar lander destined for the moon in two years will hitch a ride on a SpaceX Falcon 9 rocket, SpaceIL, the company behind the project, announced Wednesday.
+ ]
+Relevant (Y/N)?Y
+FEEDBACK SUMMARY
+Precision 1.0
+Precision reached, exiting
+
+-----------------------------------------------------------------------------------------------------
+Run:
+>python proj1.py Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw 0.9 "gates"
+-----------------------------------------------------------------------------------------------------
+
+Parameters
+Client key          = Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw
+Query               = gates
+Target Precision    = 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?Query=%27gates%27&$top=10&$format=Atom
+Total number of results = 10
+======================
+Iteration: 0
+Bing Search Results:
+Y/y = relevant, N/n = not relevant, <any other> = quit
+======================
+Result 1
+[ URL: http://www.gates.com/
+ Title: Gates Corporation
+ Summary: Gates Corporation is Powering Progress? in the Oil & Gas, Energy, Mining, Marine, Agriculture, Transportation and Automotive Industries.
+ ]
+Relevant (Y/N)?N
+Result 2
+[ URL: http://www.gatecrafters.com/design_your_gates.aspx
+ Title: Driveway Gates | Automatic Gates | Electric Gates
+ Summary: Driveway Gates - Automatic Gates The high-quality driveway gates from GateCrafters.com come in a wide variety of options to ...
+ ]
+Relevant (Y/N)?N
+Result 3
+[ URL: http://www.gatesbbq.com/
+ Title: Gates Bar B.Q.
+ Summary: With the tantalizing hickory barbecue smell drawing the customer through the ranch-style doors, he is immediately greeted.
+ ]
+Relevant (Y/N)?N
+Result 4
+[ URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Agates
+ Title: Amazon.com: gates
+ Summary: Product Features Expands to become a 192-inch wall mounted gate or free standing barrier
+ ]
+Relevant (Y/N)?N
+Result 5
+[ URL: http://en.wikipedia.org/wiki/Bill_Gates
+ Title: Bill Gates - Wikipedia, the free encyclopedia
+ Summary: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor. In 1975, Gates co ...
+ ]
+Relevant (Y/N)?Y
+Result 6
+[ URL: https://www.facebook.com/gatesnj
+ Title: gates
+ Summary: gates. 13,913 likes ¡¤ 194 talking about this. www.gatesnj.com. Facebook logo. Email or Phone: Password: Keep me logged in. Forgot your password? Sign Up. gates
+ ]
+Relevant (Y/N)?N
+Result 7
+[ URL: http://en.wikipedia.org/wiki/Gates
+ Title: Gates - Wikipedia, the free encyclopedia
+ Summary: Gates may refer to: Contents 1 People 2 Places 3 Art and entertainment 4 See also People Gates (surname) Gates Brown, American baseball player Gates McFadden ...
+ ]
+Relevant (Y/N)?N
+Result 8
+[ URL: http://www.forbes.com/profile/bill-gates/
+ Title: Bill Gates - Forbes
+ Summary: Forty years ago, when Bill Gates and Paul Allen launched Microsoft, Gates' goal of getting a computer on every person's desk seemed audacious.
+ ]
+Relevant (Y/N)?Y
+Result 9
+[ URL: http://www.gatesfoundation.org/
+ Title: Bill & Melinda Gates Foundation
+ Summary: The Gates Foundation¡¯s effort to eradicate polio offers the chance to protect millions of children from paralysis forever.
+ ]
+Relevant (Y/N)?Y
+Result 10
+[ URL: http://www.amazon.com/b?ie=UTF8&node=166868011
+ Title: Amazon.com: Gates & Doorways: Baby Products
+ Summary: Online shopping for Gates & Doorways from a great selection at Baby Products Store.
+ ]
+Relevant (Y/N)?N
+FEEDBACK SUMMARY
+Precision 0.3
+Still below the desired precision of  0.9
+Augmenting by: ['bill', 'computer']
+Parameters
+Client key          = Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw
+Query               = bill gates computer
+Target Precision    = 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?Query=%27bill+gates+computer%27&$top=10&$format=Atom
+Total number of results = 10
+======================
+Iteration: 1
+Bing Search Results:
+Y/y = relevant, N/n = not relevant, <any other> = quit
+======================
+Result 1
+[ URL: http://en.wikipedia.org/wiki/Bill_Gates
+ Title: Bill Gates - Wikipedia, the free encyclopedia
+ Summary: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor.
+ ]
+Relevant (Y/N)?Y
+Result 2
+[ URL: http://www.britannica.com/biography/Bill-Gates
+ Title: Bill Gates | biography - American computer programmer ...
+ Summary: American computer programmer and entrepreneur who cofounded Microsoft Corporation, the world¡¯s largest personal-computer software company. Gates wrote his first ...
+ ]
+Relevant (Y/N)?Y
+Result 3
+[ URL: http://www.computerhope.com/people/bill_gates.htm
+ Title: Bill Gates - Computer Hope
+ Summary: Short biography of Bill Gates, the founder of Microsoft.
+ ]
+Relevant (Y/N)?Y
+Result 4
+[ URL: http://www.biography.com/people/bill-gates-9307520
+ Title: Bill Gates - Business Leader, Entrepreneur, Philanthropist ...
+ Summary: Entrepreneur Bill Gates founded the world's largest software business, Microsoft, with Paul Allen, and subsequently became one of the richest men in the world.
+ ]
+Relevant (Y/N)?Y
+Result 5
+[ URL: http://inventors.about.com/od/gstartinventors/a/Bill_Gates.htm
+ Title: Bill Gates - Biography - About.com Money
+ Summary: Bill Gates came from a family of entrepreneurship and high-spirited liveliness. William Henry Gates III was born in Seattle, Washington on October 28th, 1955.
+ ]
+Relevant (Y/N)?Y
+Result 6
+[ URL: http://www.computerhistory.org/honorary/Bill,Gates/
+ Title: Bill Gates | Computer History Museum
+ Summary: William (Bill) H. Gates is chairman of Microsoft Corporation, the worldwide leader in software, services and solutions that help people and businesses realize their ...
+ ]
+Relevant (Y/N)?Y
+Result 7
+[ URL: http://www.eweek.com/cloud/bill-gates-says-were-living-in-a-golden-age-of-computer-science
+ Title: Bill Gates Says We're Living in a 'Golden Age of Computer ...
+ Summary: Going forward, Gates envisions that progress in user interfaces, modeling, machine learning and other computing disciplines will result in a "powerful ...
+ ]
+Relevant (Y/N)?Y
+Result 8
+[ URL: http://www.forbes.com/profile/bill-gates/
+ Title: Bill Gates - Forbes
+ Summary: Forty years ago, when Bill Gates and Paul Allen launched Microsoft, Gates' goal of getting a computer on every person's desk seemed audacious.
+ ]
+Relevant (Y/N)?Y
+Result 9
+[ URL: http://www.howstuffworks.com/tech-myths/5-myths-about-bill-gates3.htm
+ Title: Top 5 Myths About Bill Gates - HowStuffWorks
+ Summary: 3: Bill Gates Said 640K RAM Was Enough -- for Anyone - Do you know the facts from the myths about Bill Gates? Take a look at this list of five myths about Bill Gates ...
+ ]
+Relevant (Y/N)?Y
+Result 10
+[ URL: http://cs.stanford.edu/info/gates
+ Title: Gates Computer Science Building | Stanford Computer Science
+ Summary: The Gates Computer Science Building was completed in January 1996 and is the home of the Computer Science Department (CSD) and the Computer Systems Laboratory (CSL).
+ ]
+Relevant (Y/N)?Y
+FEEDBACK SUMMARY
+Precision 1.0
+Precision reached, exiting
+
+-----------------------------------------------------------------------------------------------------
+Run:
+>python proj1.py Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw 0.9 "taj mahal"
+-----------------------------------------------------------------------------------------------------
+Parameters
+Client key          = Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw
+Query               = taj mahal
+Target Precision    = 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?Query=%27taj+mahal%27&$top=10&$format=Atom
+Total number of results = 10
+======================
+Iteration: 0
+Bing Search Results:
+Y/y = relevant, N/n = not relevant, <any other> = quit
+======================
+Result 1
+[ URL: http://en.wikipedia.org/wiki/Taj_Mahal
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Summary: The Taj Mahal is a white marble mausoleum located on the southern bank of the Yamuna River in the Indian city of Agra. It was commissioned in 1632 by the Mughal ...
+ ]
+Relevant (Y/N)?N
+Result 2
+[ URL: http://www.history.com/topics/taj-mahal
+ Title: The Taj Mahal - Facts & Summary - HISTORY.com
+ Summary: Find out more about the history of The Taj Mahal, including videos, interesting articles, pictures, historical features and more. Get all the facts on HISTORY.com
+ ]
+Relevant (Y/N)?N
+Result 3
+[ URL: http://www.trumptaj.com/
+ Title: Atlantic City New Jersey Casino Hotels | Trump Taj Mahal ...
+ Summary: For five star Atlantic City Casino hotels, Trump Taj Mahal Casino Hotel offers restaurants, nightlife and a casino floor you can't resist. Explore our Atlantic City ...
+ ]
+Relevant (Y/N)?N
+Result 4
+[ URL: http://tajmahal.gov.in/
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Summary: Official website by Department of Tourism, Government of Uttar Pradesh. Details about Taj Mahal, ticketing, tours, and tourist information.
+ ]
+Relevant (Y/N)?N
+Result 5
+[ URL: http://www.tajmahal.com/
+ Title: Taj Mahal India
+ Summary: Taj Mahal, Taj Mahal history, taj mahal location, pictures, information, taj mahal tours, tickets and packages. Taj Mahal India
+ ]
+Relevant (Y/N)?N
+Result 6
+[ URL: http://www.tajblues.com/
+ Title: An International Treasure - Taj Mahal
+ Summary: Official site includes news, tour schedule, discography, audio/video and pictures.
+ ]
+Relevant (Y/N)?Y
+Result 7
+[ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, & Streaming Radio | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming radio on AllMusic - A guitarist and singer/songwriter who took an¡­
+ ]
+Relevant (Y/N)?Y
+Result 8
+[ URL: http://www.last.fm/music/Taj+Mahal
+ Title: Taj Mahal ¡ª Free listening, videos, concerts, stats and ...
+ Summary: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+ ]
+Relevant (Y/N)?Y
+Result 9
+[ URL: http://www.amazon.com/Taj-Mahal/e/B000APY7PY
+ Title: Amazon.com: Taj Mahal: Songs, Albums, Pictures, Bios
+ Summary: Visit Amazon.com's Taj Mahal Store to shop for Taj Mahal albums (CD, MP3, Vinyl), concert tickets, and other Taj Mahal-related products (DVDs, Books, T-shirts). Also ...
+ ]
+Relevant (Y/N)?Y
+Result 10
+[ URL: http://en.wikipedia.org/wiki/Taj_Mahal_(musician)
+ Title: Taj Mahal (musician) - Wikipedia, the free encyclopedia
+ Summary: Henry Saint Clair Fredericks (born May 17, 1942), who uses the stage name Taj Mahal, is an American blues musician. He often incorporates elements of world music into ...
+ ]
+Relevant (Y/N)?Y
+FEEDBACK SUMMARY
+Precision 0.5
+Still below the desired precision of  0.9
+Augmenting by: ['musician', 'albums']
+Parameters
+Client key          = Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw
+Query               = taj mahal musician albums
+Target Precision    = 0.9
+URL: https://api.datamarket.azure.com/Bing/Search/Web?Query=%27taj+mahal+musician+albums%27&$top=10&$format=Atom
+Total number of results = 10
+======================
+Iteration: 1
+Bing Search Results:
+Y/y = relevant, N/n = not relevant, <any other> = quit
+======================
+Result 1
+[ URL: http://en.wikipedia.org/wiki/Taj_Mahal_(musician)
+ Title: Taj Mahal (musician) - Wikipedia, the free encyclopedia
+ Summary: Henry Saint Clair Fredericks (born May 17, 1942), who uses the stage name Taj Mahal, is an American blues musician. He often incorporates elements of world music into ...
+ ]
+Relevant (Y/N)?Y
+Result 2
+[ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604/discography
+ Title: Taj Mahal | Album Discography | AllMusic
+ Summary: Find Taj Mahal discography, albums and singles on AllMusic
+ ]
+Relevant (Y/N)?Y
+Result 3
+[ URL: http://www.discogs.com/artist/15158-Taj-Mahal
+ Title: Taj Mahal Discography at Discogs
+ Summary: Complete your Taj Mahal record collection. Discover Taj Mahal's full discography. Shop new and used Vinyl and CDs.
+ ]
+Relevant (Y/N)?Y
+Result 4
+[ URL: http://www.amazon.com/Taj-Mahal/e/B000APY7PY
+ Title: Amazon.com: Taj Mahal: Songs, Albums, Pictures, Bios
+ Summary: Visit Amazon.com's Taj Mahal Store to shop for Taj Mahal albums (CD, MP3, Vinyl), concert tickets, and other Taj Mahal-related products (DVDs, Books, T-shirts). Also ...
+ ]
+Relevant (Y/N)?Y
+Result 5
+[ URL: http://www.tajblues.com/discography/
+ Title: Discography - Taj Mahal
+ Summary: 7 Discography - Taj Mahal page page-id-7 page ... 2001 Live from the Beacon Theatre NYC Album Taj Mahal ... The latest in musical explorations for The Taj Mahal ...
+ ]
+Relevant (Y/N)?Y
+Result 6
+[ URL: http://www.naturalgeographicmagazine.com/q/Taj_Mahal_(musician)_live_albums
+ Title: Taj Mahal (musician) live albums
+ Summary: The Real Thing (Taj Mahal album) The Real Thing is a 1971 live album by Taj Mahal. It was recorded on February 13, 1971 at the Fillmore East in New York City and ...
+ ]
+Relevant (Y/N)?Y
+Result 7
+[ URL: https://myspace.com/tajblues
+ Title: Taj Mahal | Listen and Stream Free Music, Albums, New ...
+ Summary: Taj Mahal's profile including the latest music, albums, songs, music videos and more updates.
+ ]
+Relevant (Y/N)?Y
+Result 8
+[ URL: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+ Title: Taj Mahal | Biography, Albums, & Streaming Radio | AllMusic
+ Summary: Find Taj Mahal bio, music, credits, awards, & streaming radio on AllMusic - A guitarist and singer/songwriter who took an¡­
+ ]
+Relevant (Y/N)?Y
+Result 9
+[ URL: http://www.inwarez.org/showthread.php?1585965-Taj-Mahal-Discography-(1968-2008)
+ Title: Taj Mahal Discography (1968-2008)
+ Summary: Artist: Taj Mahal Title Of Album: Discography Year Of Release: 1968-2008 Genre: Blues, World music, R&B, Soul Blues, Blues Rock, Reggae Quality: MP3
+ ]
+Relevant (Y/N)?Y
+Result 10
+[ URL: http://www.amazon.com/Taj-Mahal-Vinyl-TAJ-MAHAL/dp/B000B6TR9I
+ Title: TAJ MAHAL - Taj Mahal [Vinyl] - Amazon.com Music
+ Summary: It's hard to believe that 40 years have elapsed since Taj Mahal recorded his self-titled album. I can honestly say that Taj's debut album DID change my life because ...
+ ]
+Relevant (Y/N)?Y
+FEEDBACK SUMMARY
+Precision 1.0
+Precision reached, exiting

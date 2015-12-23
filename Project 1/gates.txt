@@ -1,0 +1,277 @@
+python main.py Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw 0.9 "gates"
+Parameters
+Client key          = Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw
+Query               = gates
+Target Precision    = 0.9
+https://api.datamarket.azure.com/Bing/Search/Web?Query=%27gates%27&$top=10&$format=Atom
+Total number of results = 10
+
+======================
+Bing Search Results:
+Y/y = relevant, N/n = not relevant, <any other> = quit
+======================
+Result 1
+[
+ URL: http://www.gates.com/
+ Title: Gates Corporation
+ Summary: Gates Corporation is Powering Progress? in the Oil & Gas, Energy, Mining, Marine, Agriculture, Transportation and Automotive Industries.
+ ]
+
+Relevant (Y/N)?n
+Result 2
+[
+ URL: http://www.gatecrafters.com/design_your_gates.aspx
+ Title: Driveway Gates | Automatic Gates | Electric Gates
+ Summary: Driveway Gates - Automatic Gates The high-quality driveway gates from GateCrafters.com come in a wide variety of options to ...
+ ]
+
+Relevant (Y/N)?n
+Result 3
+[
+ URL: http://www.gatesbbq.com/
+ Title: Gates Bar B.Q.
+ Summary: With the tantalizing hickory barbecue smell drawing the customer through the ranch-style doors, he is immediately greeted.
+ ]
+
+Relevant (Y/N)?n
+Result 4
+[
+ URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Agates
+ Title: Amazon.com: gates
+ Summary: Product Features Expands to become a 192-inch wall mounted gate or free standing barrier
+ ]
+
+Relevant (Y/N)?n
+Result 5
+[
+ URL: http://en.wikipedia.org/wiki/Bill_Gates
+ Title: Bill Gates - Wikipedia, the free encyclopedia
+ Summary: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor. In 1975, Gates co ...
+ ]
+
+Relevant (Y/N)?y
+Result 6
+[
+ URL: https://www.facebook.com/gatesnj
+ Title: gates
+ Summary: gates. 13,913 likes ?? 194 talking about this. www.gatesnj.com. Facebook logo. Email or Phone: Password: Keep me logged in. Forgot your password? Sign Up. gates
+ ]
+
+Relevant (Y/N)?n
+Result 7
+[
+ URL: http://en.wikipedia.org/wiki/Gates
+ Title: Gates - Wikipedia, the free encyclopedia
+ Summary: Gates may refer to: Contents 1 People 2 Places 3 Art and entertainment 4 See also People Gates (surname) Gates Brown, American baseball player Gates McFadden ...
+ ]
+
+Relevant (Y/N)?n
+Result 8
+[
+ URL: http://www.forbes.com/profile/bill-gates/
+ Title: Bill Gates - Forbes
+ Summary: Forty years ago, when Bill Gates and Paul Allen launched Microsoft, Gates' goal of getting a computer on every person's desk seemed audacious.
+ ]
+
+Relevant (Y/N)?y
+Result 9
+[
+ URL: http://www.gatesfoundation.org/
+ Title: Bill & Melinda Gates Foundation
+ Summary: The Gates Foundation??s effort to eradicate polio offers the chance to protect millions of children from paralysis forever.
+ ]
+
+Relevant (Y/N)?y
+Result 10
+[
+ URL: http://www.amazon.com/b?ie=UTF8&node=166868011
+ Title: Amazon.com: Gates & Doorways: Baby Products
+ Summary: Online shopping for Gates & Doorways from a great selection at Baby Products Store.
+ ]
+
+Relevant (Y/N)?n
+weights: 
+Parameters
+Client key          = Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw
+Query               = bill computer gates
+Target Precision    = 0.9
+https://api.datamarket.azure.com/Bing/Search/Web?Query=%27bill+computer+gates%27&$top=10&$format=Atom
+Total number of results = 10
+
+======================
+Bing Search Results:
+Y/y = relevant, N/n = not relevant, <any other> = quit
+======================
+Result 1
+[
+ URL: http://en.wikipedia.org/wiki/Bill_Gates
+ Title: Bill Gates - Wikipedia, the free encyclopedia
+ Summary: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor.
+ ]
+
+Relevant (Y/N)?y
+Result 2
+[
+ URL: http://www.biography.com/people/bill-gates-9307520
+ Title: Bill Gates - Business Leader, Entrepreneur, Philanthropist ...
+ Summary: Entrepreneur Bill Gates founded the world's largest software business, Microsoft, with Paul Allen, and subsequently became one of the richest men in the world.
+ ]
+
+Relevant (Y/N)?y
+Result 3
+[
+ URL: http://www.howstuffworks.com/tech-myths/5-myths-about-bill-gates3.htm
+ Title: Top 5 Myths About Bill Gates - HowStuffWorks
+ Summary: 3: Bill Gates Said 640K RAM Was Enough -- for Anyone - Do you know the facts from the myths about Bill Gates? Take a look at this list of five myths about Bill Gates ...
+ ]
+
+Relevant (Y/N)?n
+Result 4
+[
+ URL: http://www.computerhope.com/people/bill_gates.htm
+ Title: Bill Gates - Computer Hope
+ Summary: Short biography of Bill Gates, the founder of Microsoft.
+ ]
+
+Relevant (Y/N)?y
+Result 5
+[
+ URL: http://www.forbes.com/profile/bill-gates/
+ Title: Bill Gates - Forbes
+ Summary: Forty years ago, when Bill Gates and Paul Allen launched Microsoft, Gates' goal of getting a computer on every person's desk seemed audacious.
+ ]
+
+Relevant (Y/N)?y
+Result 6
+[
+ URL: http://inventors.about.com/od/gstartinventors/a/Bill_Gates.htm
+ Title: Bill Gates - Biography - About.com Money
+ Summary: Bill Gates came from a family of entrepreneurship and high-spirited liveliness. William Henry Gates III was born in Seattle, Washington on October 28th, 1955.
+ ]
+
+Relevant (Y/N)?y
+Result 7
+[
+ URL: http://www.britannica.com/biography/Bill-Gates
+ Title: Bill Gates | biography - American computer programmer ...
+ Summary: American computer programmer and entrepreneur who cofounded Microsoft Corporation, the world??s largest personal-computer software company. Gates wrote his first ...
+ ]
+
+Relevant (Y/N)?y
+Result 8
+[
+ URL: http://www.computerhistory.org/honorary/Bill,Gates/
+ Title: Bill Gates | Computer History Museum
+ Summary: William (Bill) H. Gates is chairman of Microsoft Corporation, the worldwide leader in software, services and solutions that help people and businesses realize their ...
+ ]
+
+Relevant (Y/N)?n
+Result 9
+[
+ URL: http://faculty.wagner.edu/lori-weintrob/bill-gates-the-birth-of-the-computer/
+ Title: Bill Gates- The birth of the computer | Lori Weintrob
+ Summary: It??s fine to celebrate success but it is more important to heed the lessons of failure.- Bill Gates ...
+ ]
+
+Relevant (Y/N)?y
+Result 10
+[
+ URL: http://www.eweek.com/cloud/bill-gates-says-were-living-in-a-golden-age-of-computer-science
+ Title: Bill Gates Says We're Living in a 'Golden Age of Computer ...
+ Summary: Going forward, Gates envisions that progress in user interfaces, modeling, machine learning and other computing disciplines will result in a "powerful ...
+ ]
+
+Relevant (Y/N)?y
+weights: 
+Parameters
+Client key          = Nd1mR2D4ERA7IeNSLzw/Sr8AcBZGI40W/AlH8XyZ5Sw
+Query               = computer biography programmer bill gates
+Target Precision    = 0.9
+https://api.datamarket.azure.com/Bing/Search/Web?Query=%27computer+biography+programmer+bill+gates%27&$top=10&$format=Atom
+Total number of results = 10
+
+======================
+Bing Search Results:
+Y/y = relevant, N/n = not relevant, <any other> = quit
+======================
+Result 1
+[
+ URL: http://www.britannica.com/biography/Bill-Gates
+ Title: Bill Gates | biography - American computer programmer ...
+ Summary: Bill Gates, in full William Henry Gates III (born October 28, 1955, Seattle, Washington, U.S.), American computer programmer and entrepreneur who cofounded Microsoft ...
+ ]
+
+Relevant (Y/N)?y
+Result 2
+[
+ URL: http://www.biography.com/people/groups/computer-programmers#!
+ Title: Famous Computer Programmers - Biography.com
+ Summary: Browse notable computer programmers such as Steve Jobs, Bill Gates, and Stephen Wozniak. Mark Zuckerberg - Mini Biography (TV-14; 3:41) Mark Zuckerberg was a computer ...
+ ]
+
+Relevant (Y/N)?y
+Result 3
+[
+ URL: http://en.wikipedia.org/wiki/Bill_Gates
+ Title: Bill Gates - Wikipedia, the free encyclopedia
+ Summary: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor.
+ ]
+
+Relevant (Y/N)?y
+Result 4
+[
+ URL: http://www.biographybd.com/bill-gates-biography/
+ Title: Bill Gates Richest person biography | Biography
+ Summary: Bill Gates Biography. ... Bill Gates. Full name: William Henry ??Bill?? Gates Birth date: October 28, 1955 ... computer programmer and great entrepreneur.
+ ]
+
+Relevant (Y/N)?y
+Result 5
+[
+ URL: http://www.shortbiography.net/bill-gates/
+ Title: Bill Gates | Short Biography
+ Summary: ... investor, programmer, inventor and philanthropist Gates ... Bill Gates Biography ... of Bill Gates, from his early interest in computer programming to ...
+ ]
+
+Relevant (Y/N)?y
+Result 6
+[
+ URL: http://studentnet.hu/oldfiles/bill-gates-short-biography.html
+ Title: Bill gates short biography- Bill Gates biography ...
+ Summary: Bill gates short biography- There is a little ... computer programmer, and inventor. Gates.Biography of Bill Gates Short bio of Bill Gates William Henry Gates was ...
+ ]
+
+Relevant (Y/N)?y
+Result 7
+[
+ URL: http://1001e.net/blog/house-bill-gates-family-children
+ Title: House Bill Gates Family Children | modern house plans
+ Summary: ... 1955) is an american business magnate, philanthropist, investor, computer programmer, and inventor.. ... Bill gates biography for kids, ...
+ ]
+
+Relevant (Y/N)?y
+Result 8
+[
+ URL: http://www.gatesnotes.com/About-Bill-Gates/Early-Days-as-a-Computer-Programmer
+ Title: Early Days as a Computer Programmer | Bill Gates
+ Summary: Bill Gates looks back at his early days as a computer programmer in this interview with Ed Lazowska, ... BILL GATES: There were quite a few computers at the UW that ...
+ ]
+
+Relevant (Y/N)?y
+Result 9
+[
+ URL: http://www.zdnet.com/article/bill-gates-programmer/
+ Title: Bill Gates, programmer? | ZDNet
+ Summary: Bill Gates, programmer? ... Bill was going to be in all ... After dropping out of Harvard Gates created the first basic operating language for the computer. Although ...
+ ]
+
+Relevant (Y/N)?y
+Result 10
+[
+ URL: http://www.forbes.com/sites/tomiogeron/2013/02/26/bill-gates-celebrities-support-education-for-computer-programming/
+ Title: Bill Gates, Mark Zuckerberg, Chris Bosh Campaign For More ...
+ Summary: Bill Gates, Mark Zuckerberg and celebrities are joining a campaign to get more students into computer programming degrees. Bill Gates, ...
+ ]
+
+Relevant (Y/N)?y
+Precision reached, exiting
